@@ -1,6 +1,6 @@
 {
   "name": "Simplify Twitter Web UI",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "manifest_version": 2,
   "description": "Simplify the new Twitter Web UI",
   "homepage_url": "https://github.com/lukeed/twitter-simple-extension",
