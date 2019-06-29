@@ -2,21 +2,23 @@
   "name": "Simplify Twitter Web UI",
   "version": "1.0.0",
   "manifest_version": 2,
-  "description": "Remove the Moments link & Live Video box!",
+  "description": "Simplify the new Twitter Web UI",
   "homepage_url": "https://github.com/lukeed/twitter-simple-extension",
   "icons": {
     "128": "128x128.png"
   },
   "permissions": [
-    "https://twitter.com/*"
+    "https://twitter.com/*",
+    "https://*.twitter.com/*"
   ],
   "content_scripts": [
     {
       "matches": [
-        "https://twitter.com/*"
+        "https://twitter.com/*",
+        "https://*/twitter.com/*"
       ],
       "js": [
-        "index.js"
+        "index.min.js"
       ]
     }
   ]

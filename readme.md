@@ -1,15 +1,13 @@
 # Simplify Twitter Web UI
 
-> Removes the `Moments` link & the `Live Video` box.
+> Simplify the new Twitter Web UI
 
-
-<img src="640x400.png" width="420" />
 
 **Why?**
 
-- I accidentally click on `Moments` often -- and the page freezes for a few seconds.
-- The `Live Video` just uses bandwidth. I've ***never*** watched it.
-
+- I don't like 33–66–33 layouts (too busy)
+- Hide "Trending For you" stuff – usually in the right sidebar
+- Attempt to hide "Promoted Tweets" – currently works, but don't count on it
 
 ## Install
 
