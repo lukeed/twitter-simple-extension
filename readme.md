@@ -5,7 +5,7 @@
 
 **Why?**
 
-- I don't like 33–66–33 layouts (too busy)
+- I don't like 3-column layouts (too busy)
 - Hide "Trending For you" stuff – usually in the right sidebar
 - Attempt to hide "Promoted Tweets" – currently works, but don't count on it
 
